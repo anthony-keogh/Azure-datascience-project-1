@@ -12,7 +12,7 @@ By using digital marketing methods, marketers can now better measure and analyze
 
 # Quick summary of my data engineer role
 
-![Optional Text](../master/main-folder/static/img/data-science-logo.png)
+![Optional Text](../master/main-folder/static/img/data-engineer-process-image.png)
 
      • Business understanding
     
