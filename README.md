@@ -1,3 +1,6 @@
+This is a demo project to demonstrate how I would conduct a Data Science Project for a electric car company
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Optional Text](../master/main-folder/static/img/data-science-logo.png)
 
 # General Motors: Data science with Microsoft Azure
