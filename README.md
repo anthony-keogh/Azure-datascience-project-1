@@ -12,6 +12,8 @@ By using digital marketing methods, marketers can now better measure and analyze
 
 # Quick summary of my data engineer role
 
+![Optional Text](../master/main-folder/static/img/data-science-logo.png)
+
      • Business understanding
     
    This entails the understanding of a project’s objectives and requirements from the business viewpoint. Such business perspectives are used to figure out what business problems to solve via the use of data mining.
