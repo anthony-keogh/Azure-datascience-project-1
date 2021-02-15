@@ -1,3 +1,4 @@
+master/main-folder/static/img/data-science-logo.png
 # General Motors: Data science with Microsoft Azure
 
 # Goal for this project:
