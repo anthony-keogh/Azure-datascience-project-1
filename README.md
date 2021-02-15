@@ -44,6 +44,9 @@ By using digital marketing methods, marketers can now better measure and analyze
 # What was Measured in last online marketing campaign
 
 # The use of Closed-Loop Marketing
+
+![Optional Text](../master/main-folder/static/img/marketing-loop.png)
+
       • How was the marketing goal defined:
       
    What was the campaign looking to achieve?
