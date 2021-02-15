@@ -6,6 +6,8 @@
 
 How effective was General Motors last online marketing campaign on electric cars for each USA state and how can the marketing team improve upon this?
 
+![Optional Text](../master/main-folder/static/img/data-science-logo.png)
+
 # Online Marketing Effectiveness Overview
 
 By using digital marketing methods, marketers can now better measure and analyze their efforts. Today’s marketers can track every action prospects and customers take and determine their level of interest. Marketing teams rely on real-time data to see which approaches are working and which are not. At the same time, marketers must make sure that the data they have is accurate and reliable. The better the data, the better decisions and adjustments they can make in the course of a campaign.
