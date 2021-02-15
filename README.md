@@ -1,4 +1,4 @@
-![Optional Text](..master/main-folder/static/img/data-science-logo.png)
+![Optional Text](../master/main-folder/static/img/data-science-logo.png)
 
 # General Motors: Data science with Microsoft Azure
 
