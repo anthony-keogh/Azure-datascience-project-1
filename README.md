@@ -40,15 +40,15 @@ By using digital marketing methods, marketers can now better measure and analyze
 # The use of Closed-Loop Marketing
       • How was the marketing goal defined:
       
-        What was the campaign looking to achieve?
+   What was the campaign looking to achieve?
 
       • What key performance indicators (KPIs) were used:
   
-        In other words, what metrics and measurements were the marketing team paying the most attention to?
+   In other words, what metrics and measurements were the marketing team paying the most attention to?
 
       • What plan was made to collect this data:
   
-        Do you want data broken down by segment? By month or week? Who is going to gather the data and who is going to analyze and act upon it?
+   Do you want data broken down by segment? By month or week? Who is going to gather the data and who is going to analyze and act upon it?
         
 # 1. Analyze past marketing campaign and how you will deem it a Success or not
 # 2. Analyze Marketing Channels from this campaign
