@@ -6,7 +6,7 @@
 
 How effective was General Motors last online marketing campaign on electric cars for each USA state and how can the marketing team improve upon this?
 
-![Optional Text](../master/main-folder/static/img/data-science-logo.png)
+![Optional Text](../master/main-folder/static/img/usa-map.png)
 
 # Online Marketing Effectiveness Overview
 
