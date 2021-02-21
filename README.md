@@ -1,4 +1,4 @@
-This is a demo project to highlight how I would conduct a Data Science Project for a electric car company
+This is a demo project to highlight how I would conduct a Data Science Project for a electric car company. For this project I have chosen General Motors as they are an emerging chose for consumers who want to buy an electric car
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Optional Text](../master/main-folder/static/img/data-science-logo.png)
