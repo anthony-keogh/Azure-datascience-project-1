@@ -15,7 +15,7 @@ How effective was General Motors last online marketing campaign on electric cars
 
 By using digital marketing methods, marketers can now better measure and analyze their efforts. Today’s marketers can track every action prospects and customers take and determine their level of interest. Marketing teams rely on real-time data to see which approaches are working and which are not. At the same time, marketers must make sure that the data they have is accurate and reliable. The better the data, the better decisions and adjustments they can make in the course of a campaign.
 
-# Quick summary of my data engineer role
+# Quick summary of my Data Science role
 
 ![Optional Text](../master/main-folder/static/img/data-engineer-process-image.png)
 
