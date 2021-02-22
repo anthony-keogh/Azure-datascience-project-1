@@ -51,26 +51,27 @@ By using digital marketing methods, marketers can now better measure and analyze
 
 3. Brand awareness: Sentiment, social mentions, press mentions
 
-   Social Media (Paid) Metrics
+
+       Social Media (Paid) Metrics
    
-     • Click-through rate
+          • Click-through rate
      
-     • Conversion rate
+          • Conversion rate
      
-     • Cost per click
+          • Cost per click
      
-     • Cost per-conversion
+          • Cost per-conversion
      
      
-   Display Ads/Paid Media Metrics
+       Display Ads/Paid Media Metrics
    
-     • Cost per thousand impressions
+          • Cost per thousand impressions
      
-     • Click-through rate
+          • Click-through rate
      
-     • Conversion rate
+          • Conversion rate
      
-     • Cost per conversion
+          • Cost per conversion
      
 # The use of Closed-Loop Marketing
 
