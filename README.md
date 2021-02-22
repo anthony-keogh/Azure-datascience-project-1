@@ -136,45 +136,65 @@ Budget per medium:
    
 # Data Engineering process
 
- • Gathering and Collection
+    • Gathering and Collection
  
- • Explore the raw data
+    • Explore the raw data
 
- • Define Data architecture
+    • Define Data architecture
  
- • Define structure
+    • Define structure
  
- • Define Data Flows
+    • Define Data Flows
 
- • Define Data modeling and Model Building
+    • Define Data modeling and Model Building
 
- • Define Data Pipelines
+    • Define Data Pipelines
 
- • Define Schema design
+    • Define Schema design
  
- • Model Deployment
+    • Model Deployment
  
 # Data Science Technologies
 
- • Azure
+    • Azure
+    
+   Microsoft Azure, commonly referred to as Azure, is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
 
- • SQL
+    • SQL
+    
+   SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. 
+    
+    • Azure Data Factory
+   
+   Azure Data Factory is a cloud-based data integration service that allows you to create data-driven workflows in the cloud for orchestrating and automating data movement and data transformation.
 
- • Azure Data Factory
+    • Azure Data Warehouse
+    
+   Azure SQL Data Warehouse is a managed petabyte-scale service with controls to manage compute and storage independently. In addition to the flexibility around compute workload elasticity, it also allows users to pause the compute layer while still persisting the data to reduce costs in a pay-as-you go environment.
 
- • Azure Data Warehouse
+    • Sparks
+   
+   Apache Spark is an open-source, distributed processing system used for big data workloads. It utilizes in-memory caching and optimized query execution for fast queries against data of any size. Simply put, Spark is a fast and general engine for large-scale data processing.
 
- • Sparks
-
- • Python
+    • Python
+   
+   Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.
  
- • Numpy
+    • Numpy
+   
+   NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
- • Pandas
+    • Pandas
+    
+   In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 
- • Matplotlib
+    • Matplotlib
+   
+   Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+.
 
- • Scikit Learn
+    • Scikit Learn
+    
+   Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. It is licensed under a permissive simplified BSD license and is distributed under many Linux distributions, encouraging academic and commercial use.
  
 # Dashboards and Data Visualisations used for last online marketing campaign
 
