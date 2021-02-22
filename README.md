@@ -87,7 +87,7 @@ Product Marketing Campaign
       
 # 2. Analyze Marketing Channels from this campaign
 
-![Optional Text](../master/main-folder/static/img/marketing-loop.png)
+![Optional Text](../master/main-folder/static/img/peso.PNG)
 
    • Paid Search: 
 
