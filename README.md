@@ -45,9 +45,11 @@ By using digital marketing methods, marketers can now better measure and analyze
    
 # What was Measured in last online Paid Marketing Campaign
 
-For promoting a new product or service: Pre-orders, sales, upsells
+1.For promoting a new product or service: Pre-orders, sales, upsells
 
-For generating revenue: Leads, sales, upsells
+2.For generating revenue: Leads, sales, upsells
+
+3.For increasing brand awareness: Sentiment, social mentions, press mentions
 
    Social Media (Paid) Metrics
    
@@ -116,6 +118,13 @@ Product Marketing Campaign
 
    
 # 3. Capital Expenditures by each Marketing Channel: Key Performance Indicators (KPIs)
+
+Overall Budget for this Online Paid Campaign: $
+
+Budget per medium:
+
+
+
 
 # 4. Customer Life-Time Values: Short-Term and Long-Term Impact on Revenue
    • Calculating CLV:
