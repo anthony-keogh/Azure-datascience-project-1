@@ -45,11 +45,11 @@ By using digital marketing methods, marketers can now better measure and analyze
    
 # What was Measured in last online Paid Marketing Campaign
 
-1.For promoting a new product or service: Pre-orders, sales, upsells
+1. Promoting a new electric car: Pre-orders, sales, upsells
 
-2.For generating revenue: Leads, sales, upsells
+2. Generating revenue: Leads, sales, upsells
 
-3.For increasing brand awareness: Sentiment, social mentions, press mentions
+3. Brand awareness: Sentiment, social mentions, press mentions
 
    Social Media (Paid) Metrics
    
@@ -86,7 +86,6 @@ By using digital marketing methods, marketers can now better measure and analyze
 
       • What key performance indicators (KPIs) were used:
       
-        More Leads, sales and upsells.
   
    In other words, what metrics and measurements were the marketing team paying the most attention to?
 
@@ -98,7 +97,7 @@ By using digital marketing methods, marketers can now better measure and analyze
 
 Did you achieve your objective?
 
-Great marketing campaigns follow a consistent theme and promote a single or focused idea or goal
+    What was the consistent theme and goal. How can we measure this using quantitative analysis
 
 Product Marketing Campaign
 
@@ -129,6 +128,7 @@ Budget per medium:
 
 
 # 4. Customer Life-Time Values: Short-Term and Long-Term Impact on Revenue
+
    • Calculating CLV:
   
    • Customer Retention Rates:
@@ -176,3 +176,5 @@ Budget per medium:
  • Scikit Learn
  
 # Dashboards and Data Visualisations used for last online marketing campaign
+
+# Overall actionable insights to make for next online paid marketing campaign to achieve better results
