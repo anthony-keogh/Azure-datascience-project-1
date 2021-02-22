@@ -6,7 +6,7 @@ This is a demo project to highlight how I would conduct a Data Science Project f
 
 # Goal for this project:
 
-How effective was General Motors last online marketing campaign on electric cars for each USA state and how can the marketing team improve upon this?
+How effective was General Motors last online Paid Marketing Campaign on electric cars for each USA state and how can the marketing team improve upon this?
 
 ![Optional Text](../master/main-folder/static/img/usa-map.png)
 
@@ -43,11 +43,33 @@ By using digital marketing methods, marketers can now better measure and analyze
    Once the model is of satisfactory quality, the model is then deployed, which may range from being a simple report, an API that can be accessed via programmatic calls, a web application, etc.
    
    
-# What was Measured in last online marketing campaign
+# What was Measured in last online Paid Marketing Campaign
 
 For promoting a new product or service: Pre-orders, sales, upsells
 
 For generating revenue: Leads, sales, upsells
+
+   Social Media (Paid) Metrics
+   
+     • Click-through rate
+     
+     • Conversion rate
+     
+     • Cost per click
+     
+     • Cost per-conversion
+     
+     
+   Display Ads/Paid Media Metrics
+   
+     • Cost per thousand impressions
+     
+     • Click-through rate
+     
+     • Conversion rate
+     
+     • Cost per conversion
+     
 # The use of Closed-Loop Marketing
 
 ![Optional Text](../master/main-folder/static/img/marketing-loop.png)
