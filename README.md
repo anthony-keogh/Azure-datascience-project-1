@@ -3,7 +3,6 @@ This is a demo project to highlight how I would conduct a Data Science Project f
 
 ![Optional Text](../master/main-folder/static/img/data-science-logo.png)
 
-# General Motors: Data science with Microsoft Azure
 
 # Goal for this project:
 
