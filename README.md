@@ -45,15 +45,24 @@ By using digital marketing methods, marketers can now better measure and analyze
    
 # What was Measured in last online marketing campaign
 
+For promoting a new product or service: Pre-orders, sales, upsells
+
+For generating revenue: Leads, sales, upsells
 # The use of Closed-Loop Marketing
 
 ![Optional Text](../master/main-folder/static/img/marketing-loop.png)
 
+   Marketing Goals
+
       • How was the marketing goal defined:
+      
+      What’s the concept of the campaign and who was the common target for the 50 states of America?
       
    What was the campaign looking to achieve?
 
       • What key performance indicators (KPIs) were used:
+      
+        More Leads, sales and upsells.
   
    In other words, what metrics and measurements were the marketing team paying the most attention to?
 
@@ -62,7 +71,23 @@ By using digital marketing methods, marketers can now better measure and analyze
    Do you want data broken down by segment? By month or week? Who is going to gather the data and who is going to analyze and act upon it?
         
 # 1. Analyze past marketing campaign and how you will deem it a Success or not
+
+Did you achieve your objective?
+
+Great marketing campaigns follow a consistent theme and promote a single or focused idea or goal
+
+Product Marketing Campaign
+
+1. What’s the purpose and goal of your campaign?
+
+       •  Promote a new product or service
+       
+      Specific, Measurable, Attainable, Relevant, and Timely
+      
+      
 # 2. Analyze Marketing Channels from this campaign
+
+![Optional Text](../master/main-folder/static/img/marketing-loop.png)
 
    • Paid Search: 
 
