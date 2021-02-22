@@ -200,4 +200,4 @@ Budget per medium:
  
 # Dashboards and Data Visualisations used for last online marketing campaign
 
-# Overall actionable insights to make for next online paid marketing campaign to achieve better results
+# Overall actionable insights to achieve better results for next online paid marketing campaign
