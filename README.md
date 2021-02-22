@@ -81,8 +81,9 @@ Product Marketing Campaign
 1. What’s the purpose and goal of your campaign?
 
        •  Promote a new product or service
+       •  Increase brand awareness
+       •  Generate revenue
        
-      Specific, Measurable, Attainable, Relevant, and Timely
       
       
 # 2. Analyze Marketing Channels from this campaign
@@ -91,11 +92,6 @@ Product Marketing Campaign
 
    • Paid Search: 
 
-   • Email Marketing: 
-
-   • Content Marketing:
-
-   • Social Media: 
    
 # 3. Capital Expenditures by each Marketing Channel: Key Performance Indicators (KPIs)
 
