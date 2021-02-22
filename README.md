@@ -123,6 +123,8 @@ Overall Budget for this Online Paid Campaign: $
 
 Budget per medium:
 
+![Optional Text](../master/main-folder/static/img/peso-per-medium.png)
+
 
 
 
